@@ -1,4 +1,5 @@
 # MY NAME IS AKALANKA
+<img src="./img/chess_pieces_fighting_board_88519_1366x768.jpg"/>
 > How to build a docs site with _Docsify-JS_ and Github Pages
 
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
